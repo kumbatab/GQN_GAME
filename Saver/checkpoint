@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\DQN_V1\\DQN_point_game\\Saver\\cnnsaver.ckpt-0"
+all_model_checkpoint_paths: "E:\\DQN_V1\\DQN_point_game\\Saver\\cnnsaver.ckpt-0"
